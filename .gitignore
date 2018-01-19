@@ -1,1 +1,5 @@
 build/
+.vs/
+LesserFair.vcxproj.user
+x64/
+
