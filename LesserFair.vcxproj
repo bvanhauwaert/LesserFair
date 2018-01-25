@@ -21,9 +21,13 @@
   <ItemGroup>
     <ClCompile Include="LesserApplication.cc" />
     <ClCompile Include="Main.cc" />
+    <ClCompile Include="Player.cc" />
+    <ClCompile Include="UserInterface.cc" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LesserApplication.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="UserInterface.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

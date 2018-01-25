@@ -13,7 +13,9 @@ WT_LIB_DIR=../../../opt/usr/lib
 ## List of C++ source modules
 CC_MODULES := \
 	LesserApplication \
-	Main
+	Main \
+	Player \
+	UserInterface
 
 ## Make logic
 # Executabel name and list of source, object and dependency files. These are
